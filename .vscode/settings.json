@@ -4,5 +4,6 @@
         "titleBar.activeBackground": "#40299E",
         "titleBar.activeForeground": "#FAF9FD"
     },
-    "python.pythonPath": "/Users/tenzingyeshi/.local/share/virtualenvs/Blockchain-KMEg-za3/bin/python"
+    "python.pythonPath": "/Users/tenzingyeshi/.local/share/virtualenvs/Blockchain-KMEg-za3/bin/python",
+    "python.formatting.provider": "autopep8"
 }
